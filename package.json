@@ -1,0 +1,19 @@
+{
+  "name": "jv-remove",
+  "version": "1.0.0",
+  "description": "remove item from an array without using Array.prototype.splice",
+  "main": "index.js",
+  "scripts": {
+    "test": "tap test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jjvein/jv-remove.git"
+  },
+  "author": "jjvein",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jjvein/jv-remove/issues"
+  },
+  "homepage": "https://github.com/jjvein/jv-remove#readme"
+}
