@@ -3,6 +3,8 @@
 
 Remove elements from an array without Array.prototype.splice
 
+[![build status](http://img.shields.io/travis/jjvein/jv-remove.svg?style=flat)](http://travis-ci.org/jjvein/jv-remove)
+
 ### Usage
 
 ```
